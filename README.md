@@ -1,2 +1,2 @@
 # PRACTICE
-# https://sonarcloud.io/organizations/anastasia-f/projects
+# sonarcloud: https://sonarcloud.io/organizations/anastasia-f/projects
