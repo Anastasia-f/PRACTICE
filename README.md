@@ -1,3 +1,3 @@
 # PRACTICE
-# sonarcloud: https://sonarcloud.io/organizations/anastasia-f/projects
+# Sonarcloud: https://sonarcloud.io/organizations/anastasia-f/projects
 # приложение: аукцион 
